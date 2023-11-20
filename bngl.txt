@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-welcome to namma bangalore
-=======
 welcome to bangalore
->>>>>>> ipl2
